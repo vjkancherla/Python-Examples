@@ -1,0 +1,15 @@
+{
+   "Accept":"*/*",
+   "content-type":"application/json",
+   "Host":"ia9rpyfiu0.execute-api.us-east-1.amazonaws.com",
+   "User-Agent":"GitHub-Hookshot/bb7ff82",
+   "X-Amzn-Trace-Id":"Root=1-60d447cc-3ae448d1244aa1a3535d4f9f",
+   "X-Forwarded-For":"140.82.115.151",
+   "X-Forwarded-Port":"443",
+   "X-Forwarded-Proto":"https",
+   "X-GitHub-Delivery":"810697a0-d4c9-11eb-8994-232be6a383b3",
+   "X-GitHub-Event":"delete",
+   "X-GitHub-Hook-ID":"303867535",
+   "X-GitHub-Hook-Installation-Target-ID":"274365557",
+   "X-GitHub-Hook-Installation-Target-Type":"repository"
+}
