@@ -1,0 +1,3 @@
+*/5 * * * * /home/vija0326/scripts/backup_runner.sh sso >> /home/vija0326/scripts/logs/sso_db_backup.log 2>&1
+*/5 * * * * /home/vija0326/scripts/backup_runner.sh oo >> /home/vija0326/scripts/logs/oo_db_backup.log 2>&1
+*/5 * * * * /home/vija0326/scripts/backup_runner.sh web >> /home/vija0326/scripts/logs/web_db_backup.log 2>&1

@@ -1,0 +1,7 @@
+ec2-role-supercell.audience-api.production
+ec2-role-supercell.audience-api.staging
+esports-bastion-prod
+esports-clashroyale-cms-production
+esports-clashroyale-cms-staging
+esports-jenkins-prod
+esports-ssoproxy-prod

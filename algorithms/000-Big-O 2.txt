@@ -1,0 +1,13 @@
+Big O
+-----
+It measures/analyses, at a very high level, the performance of an algorithm based on the input provided to the algorithm.
+
+It is used to measure the time and/or space complexity of an algorithm
+
+===>Best to worst Big O runtimes
+O(1) = constant runtime
+O(log n) = for Binary Search (Searches in general)
+O(n) = linear runtime (as input grows, the time/space complexity grows)
+O(n log n) = for sorting
+O(n^2) = quadratic runtime (as the input grows, the time/space complexity grows exponentially)
+O(2^n) = exponential runtime
